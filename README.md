@@ -1,2 +1,2 @@
 # danish-chicken
-A repo to host the website behind danishchicken.com
+A toy repo and website to teach my kids about what it takes to make a website.
